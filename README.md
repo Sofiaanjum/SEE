@@ -46,29 +46,29 @@ The project directory is organized as follows:
    2. Open a web browser and navigate to http://localhost:5000.
    3. Follow the on-screen instructions to use the sentiment analysis tool.
 
-# Features
+## Features
    - Real-time sentiment analysis on video streams
    - Positive, negative, and neutral emotion classification
    - Interactive bar chart displaying sentiment distribution
 
-# Flowchart
+## Flowchart
   ![image](https://github.com/Sofiaanjum/SEE/assets/123998768/04a30ef2-c5f3-47a4-85ec-53b684e8322d)
 
-# Demonstration
+## Demonstration
 (Insert a picture) 
 
-# Contributing
+## Contributing
    Contributions are welcome! If you find any bugs or have feature suggestions, please open an issue or submit a pull request.
 
-# License
+## License
    This project is licensed under the MIT License. See the LICENSE file for details.
 
-# Acknowledgments
+## Acknowledgments
    - Sentiment analysis model based on deep learning
    - Chart.js for real-time chart visualization
    - OpenCV and TensorFlow for image processing and machine learning
 
-# Contact
+## Contact
 For questions or feedback, feel free to contact the project owner at ahmedsofia15@gmail.com.
 
 
