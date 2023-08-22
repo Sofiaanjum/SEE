@@ -1,2 +1,2 @@
 # SEE
-Sentiment Emotion Analyzer (SEE)
+Sentiment Emotion Engine (SEE)
