@@ -36,7 +36,7 @@ Sentiment Emotion Engine (SEE) is a web application that performs real-time sent
    - Interactive bar chart displaying sentiment distribution
 
 # Flowchart
-  
+  https://github.com/Sofiaanjum/SEE/blob/main/flowchart.png
 
 # Demonstration
 (Insert a picture) 
