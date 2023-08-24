@@ -10,7 +10,6 @@ Sentiment Emotion Engine (SEE) is a web application that performs real-time sent
 - [Usage](#usage)
 - [Features](#features)
 - [Flowchart](flowchart.png)
-- [Demonstration](#demonstration)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -53,9 +52,6 @@ The project directory is organized as follows:
 
 ## Flowchart
   ![image](https://github.com/Sofiaanjum/SEE/assets/123998768/04a30ef2-c5f3-47a4-85ec-53b684e8322d)
-
-## Demonstration
-(Insert a picture) 
 
 ## Contributing
    Contributions are welcome! If you find any bugs or have feature suggestions, please open an issue or submit a pull request.
